@@ -1,4 +1,4 @@
-## Hi there, I'm Gianluca Regis! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there, I'm Gianluca Regis! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ---
 
@@ -18,13 +18,13 @@ How to find me:
 
 ---
 
-### :toolbox: Toolbox
+## :toolbox: Toolbox
 
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="Javascript logo vector" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Node.js logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5 logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/css-5.svg" alt="CSS logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="Tailwindcss logo" width="50" height="50" /> <img class="larger" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java logo" width="50" height="50" /> <img src="https://brandeps.com/logo-download/C/C-logo-vector-01.svg" alt="C logo" width="50" height="50" />
 
 ---
 
-### :chart_with_upwards_trend: My GitHub stats
+## :chart_with_upwards_trend: My GitHub stats
 
 ---
 
