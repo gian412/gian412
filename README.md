@@ -26,8 +26,6 @@ How to find me:
 
 ## :chart_with_upwards_trend: My GitHub stats
 
----
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gian412&exclude_repo=tiw-2020-Regis,tiw-2020-exam-Regis,tiw-2020-exam-RIA-Regis,ing-sw-2020-Ravella-Re-Regis&langs_count=6&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Gianluca's GitHub stats](https://github-readme-stats.vercel.app/api?username=gian412&count_private=true&hide=stars,prs,issues,contribs&show_icons=true&theme=tokyonight&include_all_commits=true&custom_title=Gianluca's%20GitHub%20Stats)](https://github.com/gian412/github-readme-stats)
