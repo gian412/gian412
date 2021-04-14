@@ -2,6 +2,8 @@
 
 ---
 
+## :pencil2: Something about me
+
 - :it: I'm from **Italy**
 - :seedling: I'm addicted to **learning** and **growing** every day
 - :computer: I **code** for passion
