@@ -14,9 +14,9 @@ Thanks to my background I worked on many different kinds of projects and with ve
 You can find the technologies I'm familiar with in the toolbox below.
 
 How to find me:
-- :bust_in_silhouette: Linkedin
-- :robot: Reddit
-- :incoming_envelope: r.gian@protonmail.com
+- :bust_in_silhouette: [Linkedin](https://www.linkedin.com/in/gianluca-regis)
+- :robot: [Reddit](https://www.reddit.com/user/Gianluca412)
+- :incoming_envelope: [r.gian@protonmail.com](mailto:r.gian@protonmail.com)
 
 ---
 
@@ -30,8 +30,8 @@ How to find me:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gian412&exclude_repo=tiw-2020-Regis,tiw-2020-exam-Regis,tiw-2020-exam-RIA-Regis,ing-sw-2020-Ravella-Re-Regis&langs_count=6&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Gianluca's GitHub stats](https://github-readme-stats.vercel.app/api?username=gian412&count_private=true&hide=stars,prs,issues,contribs&show_icons=true&theme=tokyonight&include_all_commits=true&custom_title=Gianluca's%20GitHub%20Stats)](https://github.com/gian412/github-readme-stats)
+[![Gianluca's GitHub stats](https://github-readme-stats.vercel.app/api?username=gian412&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&custom_title=Gianluca's%20GitHub%20Stats)](https://github.com/anuraghazraanuraghazra/github-readme-stats)
 
-[![Gianluca's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gian412)](https://github.com/gian412/github-readme-stats)
+[![Gianluca's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gian412&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
