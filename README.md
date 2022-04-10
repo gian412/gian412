@@ -32,6 +32,8 @@ How to find me:
 
 [![Gianluca's GitHub stats](https://github-readme-stats.vercel.app/api?username=gian412&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&custom_title=Gianluca's%20GitHub%20Stats)](https://github.com/anuraghazraanuraghazra/github-readme-stats)
 
+![CodersRank Widget](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=gian412)
+
 [![Gianluca's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gian412&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
